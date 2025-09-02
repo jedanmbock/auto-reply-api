@@ -1,7 +1,6 @@
 flask
-requests
 pandas
 numpy
 python-dotenv
-gunicorn
+uvicorn
 genai
